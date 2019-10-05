@@ -5,7 +5,7 @@
 # start
 nodejs cd文件目录下
 
-npm install /n
+npm install  
 npm run dev
 
 打开浏览器 http://localhost:8080
